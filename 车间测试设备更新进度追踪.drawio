@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2020-05-18T08:00:58.167Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="EeR1DF-NHx8OkfXSWQWS" version="13.1.2" type="github">
+  <diagram id="ibcvwCR_beu3g028gMTa" name="Page-1">
+    <mxGraphModel dx="1634" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-1" value="2136" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-2" value="2147" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-3" value="2156" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fixDash=0;autosize=0;treeFolding=0;noLabel=0;portConstraintRotation=0;absoluteArcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-4" value="2155" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="680" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-5" value="2130" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-9" value="与V12-25配套硬件，待升级" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="95" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-10" value="硬件最新，软件需要更新" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="135" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-11" value="硬件最新，软件也配套更新完成" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="215" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-12" value="2142" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-14" value="正在更新硬件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="175" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-16" value="验证通过" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="255" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrDt7cYHEI8dTYNzsiaw-17" value="&lt;h1&gt;软件更新履历&lt;/h1&gt;&lt;p&gt;目前升级中的硬件后续配置按2155升级，软件在其基础上去除背光是否检测勾选项，功能额外增加：1、数据库全局查重；2、取消追溯码次日重置；3、使用全新的软件版本号&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="-70" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-1" value="2140" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-2" value="2139&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-3" value="2138" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-4" value="2145" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-5" value="2150" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-6" value="拨片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SK1YB61u3QPGb9Co1Ih0-7" value="拨片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
